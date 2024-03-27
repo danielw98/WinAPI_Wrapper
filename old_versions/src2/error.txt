@@ -1,0 +1,30 @@
+creating empty list
+created buttons list 0000000000D71510
+creating button 0000000000D714D0
+first button 0000000000D714D0
+creating button 0000000000D71560
+appending button 0000000000D714D0
+creating empty list
+created labels list 0000000000D71600
+creating label 0000000000D715C0
+first button 0000000000D715C0
+creating label 0000000000D71650
+appending button 0000000000D715C0
+creating empty list
+created checkbox list 0000000000D716F0
+creating checkbox 0000000000D716B0
+first button 0000000000D716B0
+creating checkbox 0000000000D71740
+appending button 0000000000D716B0
+buttons list = 0000000000D71510
+creating button 0000000000D714D0 (x = 20 y = 50)
+creating button 0000000000D71560 (x = 120 y = 50)
+NULL node reached
+labels list = 0000000000D71600
+creating label 0000000000D715C0 (x = 20 y = 100)
+creating label 0000000000D71650 (x = 120 y = 100)
+NULL node reached
+checkboxes list = 0000000000D716F0
+creating checkbox 0000000000D716B0 (x = 20 y = 150)
+creating checkbox 0000000000D71740 (x = 120 y = 150)
+NULL node reached

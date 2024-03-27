@@ -1,0 +1,12 @@
+creating the buttons
+created buttons list 0000000000F11510
+creating button 0000000000F114D0
+first button 0000000000F114D0
+creating button 0000000000F11560
+appending button 0000000000F114D0
+setting the callbacks
+starting main loop
+buttons list = 0000000000F11510
+creating button 0000000000F114D0 (x = 20 y = 50)
+creating button 0000000000F11560 (x = 120 y = 50)
+NULL node reached

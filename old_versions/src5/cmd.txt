@@ -1,0 +1,1 @@
+gcc -o main main.c button.c checkbox.c label.c textbox.c listbox.c list.c utils.c menu.c renderer.c widget.c window.c ww.c -mwindows -lcomctl32

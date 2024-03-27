@@ -1,0 +1,84 @@
+creating empty list
+created buttons list 0000000000FF1520
+creating button 0000000000FF14E0
+first button 0000000000FF14E0
+creating button 0000000000FF1570
+appending button 0000000000FF14E0
+creating empty list
+created labels list 0000000000FF1610
+creating label 0000000000FF15D0
+first button 0000000000FF15D0
+creating label 0000000000FF1660
+appending button 0000000000FF15D0
+creating empty list
+created checkbox list 0000000000FF1700
+creating checkbox 0000000000FF16C0
+first button 0000000000FF16C0
+creating checkbox 0000000000FF1750
+appending button 0000000000FF16C0
+creating empty list
+created textbox list 0000000000FF1520
+creating textbox 0000000000FF17B0
+first button 0000000000FF17B0
+creating textbox 0000000000FF1840
+appending button 0000000000FF17B0
+creating empty list
+created listbox list 0000000000FF18F0
+creating listbox 0000000000FF18A0
+first button 0000000000FF18A0
+creating listbox 0000000000FF1940
+appending button 0000000000FF18A0
+buttons list = 0000000000FF1520
+creating button 0000000000FF14E0 (x = 20 y = 50)
+creating button 0000000000FF1570 (x = 120 y = 50)
+NULL node reached
+labels list = 0000000000FF1610
+creating label 0000000000FF15D0 (x = 20 y = 100)
+creating label 0000000000FF1660 (x = 120 y = 100)
+NULL node reached
+checkboxes list = 0000000000FF1700
+creating checkbox 0000000000FF16C0 (x = 20 y = 150)
+creating checkbox 0000000000FF1750 (x = 120 y = 150)
+NULL node reached
+textboxes list = 0000000000FF17F0
+creating textbox 0000000000FF17B0 (x = 20 y = 200)
+textbox callback
+textbox callback
+creating textbox 0000000000FF1840 (x = 120 y = 200)
+textbox callback
+textbox callback
+NULL node reached
+listboxes list = 0000000000FF18F0
+creating listbox 0000000000FF18A0 (x = 20 y = 250)
+creating listbox 0000000000FF1940 (x = 190 y = 250)
+NULL node reached
+button callback
+button callback
+listbox callback
+listbox callback
+listbox callback
+listbox callback
+listbox callback
+listbox callback
+listbox callback
+listbox callback
+listbox callback
+listbox callback
+listbox callback
+listbox callback
+button callback
+button callback
+button callback
+button callback
+button callback
+button callback
+checkboxCallback
+checkboxCallback
+button callback
+button callback
+listbox callback
+listbox callback
+listbox callback
+listbox callback
+textbox callback
+textbox callback

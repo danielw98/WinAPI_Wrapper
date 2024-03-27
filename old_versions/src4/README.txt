@@ -1,0 +1,4 @@
+- do something about that ww.c global variable, should be able to pass it as a param (optional, for fun)
+- WM_COMMAND should know if it's button window or whatever command - i could use the whole range instead of 0 1000 2000 ... 
+- buttons need a way to set the text color, background color, and images
+- texboxes need a way to check for which event happened

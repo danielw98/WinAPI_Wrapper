@@ -1,0 +1,103 @@
+created buttons list 0000000000711C00
+creating button 0000000000711B80
+FILE widget.c line 5
+FILE widget.c line 7
+list.c 27 list = 0000000000711C00
+creating button 0000000000711D10
+FILE widget.c line 5
+FILE widget.c line 7
+list.c 27 list = 0000000000711C00
+created labels list 0000000000716230
+creating label 0000000000711E40
+FILE widget.c line 5
+FILE widget.c line 7
+list.c 27 list = 0000000000716230
+creating label 0000000000716330
+FILE widget.c line 5
+FILE widget.c line 7
+list.c 27 list = 0000000000716230
+created checkbox list 00000000007164D0
+creating checkbox 0000000000716450
+FILE widget.c line 5
+FILE widget.c line 7
+list.c 27 list = 00000000007164D0
+creating checkbox 00000000007165E0
+FILE widget.c line 5
+FILE widget.c line 7
+list.c 27 list = 00000000007164D0
+created textbox list 0000000000711C00
+creating textbox 0000000000716710
+FILE widget.c line 5
+FILE widget.c line 7
+list.c 27 list = 0000000000716790
+creating textbox 00000000007168A0
+FILE widget.c line 5
+FILE widget.c line 7
+list.c 27 list = 0000000000716790
+created listbox list 0000000000716A60
+creating listbox 00000000007169D0
+FILE listbox.c line 15
+FILE widget.c line 5
+FILE widget.c line 7
+FILE listbox.c line 17
+list.c 27 list = 0000000000716A60
+creating listbox 0000000000716B10
+FILE listbox.c line 15
+FILE widget.c line 5
+FILE widget.c line 7
+FILE listbox.c line 17
+list.c 27 list = 0000000000716A60
+creating button 0000000000718130
+FILE widget.c line 5
+FILE widget.c line 7
+list.c 27 list = 0000000000711C00
+creating button 00000000007181B0
+FILE widget.c line 5
+FILE widget.c line 7
+list.c 27 list = 0000000000711C00
+list.c 27 list = 0000000000717EB0
+created menus list 0000000000717F70
+creating menu 0000000000718230
+menu.c 45
+list.c 27 list = 0000000000717F70
+menu.c 47
+list.c 27 list = 0000000000717F70
+menu.c 55
+menu.c 59
+menu.c 61
+list.c 27 list = 0000000000717F70
+menu.c 55
+menu.c 59
+menu.c 61
+list.c 27 list = 0000000000717F70
+menu.c 55
+menu.c 59
+menu.c 61
+list.c 27 list = 0000000000717F70
+list.c 27 list = 0000000000717F70
+menu.c 55
+menu.c 59
+menu.c 61
+list.c 27 list = 0000000000717F70
+reached WM_CREATE start
+buttons list = 0000000000711C00
+creating button 0000000000711B80 (x = 20 y = 50)
+creating button 0000000000711D10 (x = 120 y = 50)
+creating button 0000000000718130 (x = 20 y = 360)
+creating button 00000000007181B0 (x = 190 y = 360)
+NULL node reached
+labels list = 0000000000716230
+creating label 0000000000711E40 (x = 20 y = 100)
+creating label 0000000000716330 (x = 120 y = 100)
+NULL node reached
+checkboxes list = 00000000007164D0
+creating checkbox 0000000000716450 (x = 20 y = 150)
+creating checkbox 00000000007165E0 (x = 120 y = 150)
+NULL node reached
+textboxes list = 0000000000716790
+creating textbox 0000000000716710 (x = 20 y = 200)
+creating textbox 00000000007168A0 (x = 120 y = 200)
+NULL node reached
+listboxes list = 0000000000716A60
+NULL node reached
+painting rect i think
