@@ -2,14 +2,6 @@
 
 A user-friendly WinAPI Wrapper designed to simplify the development of Windows desktop applications. This library aims to make the complex WinAPI more accessible to beginners, providing a more intuitive way to create GUI applications in Windows, while also being as close to the kernel as possible.
 
-## Features
-
-- Simplified creation and management of windows and widgets.
-- Error handling for robust application development.
-- Structured organization for rendering and texture management.
-- Enhanced event handling, allowing custom callbacks for user interactions.
-
-
 ## Demo Features
 
 - `main.c`:
@@ -20,6 +12,14 @@ A user-friendly WinAPI Wrapper designed to simplify the development of Windows d
 
 - `main3.c`:
 ![WinAPI Wrapper Output1](https://github.com/danielw98/WinAPI_Wrapper/blob/main/ww_main3.gif?raw=true)
+
+## Features
+
+- Simplified creation and management of windows and widgets.
+- Error handling for robust application development.
+- Structured organization for rendering and texture management.
+- Enhanced event handling, allowing custom callbacks for user interactions.
+
 ## Getting Started
 
 Clone the repository to start using the WinAPI Wrapper in your project:
