@@ -1,0 +1,25 @@
+created labels list 00000000027C1820
+creating label 00000000027C17E0
+creating label 00000000027C1890
+created checkbox list 00000000027C1950
+creating checkbox 00000000027C1910
+creating checkbox 00000000027C19C0
+created textbox list 00000000027C16F0
+creating textbox 00000000027C1A40
+creating textbox 00000000027C6B50
+created menus list 00000000027C7610
+creating menu 00000000027C75D0
+menu.c 45
+menu.c 47
+menu.c 55
+menu.c 59
+menu.c 61
+menu.c 55
+menu.c 59
+menu.c 61
+menu.c 55
+menu.c 59
+menu.c 61
+menu.c 55
+menu.c 59
+menu.c 61
