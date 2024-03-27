@@ -13,14 +13,13 @@ A user-friendly WinAPI Wrapper designed to simplify the development of Windows d
 ## Demo Features
 
 - `main.c`:
-![Lexer Output](https://github.com/danielw98/Lexer/blob/main/Lexer.png?raw=true)
+![WinAPI Wrapper Output1](https://github.com/danielw98/WinAPI_Wrapper/blob/main/ww_main1.gif?raw=true)
 
 - `main2.c`:
-![Lexer Output](https://github.com/danielw98/Lexer/blob/main/Lexer.png?raw=true)
+![WinAPI Wrapper Output1](https://github.com/danielw98/WinAPI_Wrapper/blob/main/ww_main2.gif?raw=true)
 
 - `main3.c`:
-![Lexer Output](https://github.com/danielw98/Lexer/blob/main/Lexer.png?raw=true)
-
+![WinAPI Wrapper Output1](https://github.com/danielw98/WinAPI_Wrapper/blob/main/ww_main3.gif?raw=true)
 ## Getting Started
 
 Clone the repository to start using the WinAPI Wrapper in your project:
